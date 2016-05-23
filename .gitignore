@@ -1,3 +1,9 @@
+# IntelliJ project files
+.idea
+*.iml
+out
+gen
+
 # Compiled Object files
 *.o
 *.obj
@@ -18,3 +24,4 @@
 .dub
 docs.json
 __dummy.html
+dub.selections.json

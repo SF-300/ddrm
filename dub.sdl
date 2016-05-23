@@ -1,0 +1,8 @@
+name "ddrm"
+description "Static bindings for libdrm."
+copyright "Copyright © 2016, Vladimir Lebedev"
+authors "Vladimir Lebedev"
+license "MIT"
+targetType "library"
+
+libs "drm"
